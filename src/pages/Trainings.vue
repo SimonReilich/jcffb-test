@@ -19,7 +19,7 @@ import Title from '../components/Title.vue'
 			<br>
 			Komm einfach in eines unserer Trainings und probiere es kostenfrei aus. Du bist dir nicht sicher,
 			welches
-			Training geeignet ist? Dann schreibe einfach an christner@judoclub-ffb.de oder rufe 08141 534284 an.
+			Training geeignet ist? Dann schreibe einfach an  oder rufe  an.
 			<br>
 			Wir freuen uns auf dich!
 		</p>

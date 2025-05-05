@@ -118,7 +118,7 @@ export default {
 
 <template>
 	<div class="bg-fixed bg-cover min-h-screen width-full"
-		style="background-image: url('/JCFFB-Website-Reworked/background.jpg') ">
+		style="background-image: url('/jcffb-test/background.jpg') ">
 
 		<div class="navbar bg-base-100 fixed z-50 shadow-xl">
 			<div class="flex-1">
